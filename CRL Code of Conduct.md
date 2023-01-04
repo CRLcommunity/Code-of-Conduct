@@ -17,8 +17,8 @@ In this section rules of a general nature will be mentioned.
 9. Staff members can give the roll 'Clean Driver' to drivers who are proven to be a clean driver and confess their mistakes. Staff members can, if necessary, also remove this role if there are repeated failures to drive clean.
 
 ### Article 1.2 - Lobby setup requirement
-To participate in a CRL community lobby, the rider is expected to be a member of our Discord. The lobbies are "Invite Only" for members.
-Within the session, the following rules are mandatory:
+1. To participate in a CRL community lobby, the rider is expected to be a member of our Discord. The lobbies are "Invite Only" for members.
+2. Within the session, the following rules are mandatory:
 
 | **Lobby Options** | *Setting*  | **Assist Restrictions** | *Setting*  | **Weather and Time of Day** | *Setting*  |
 |---|---|---|---|---|---|
@@ -50,3 +50,66 @@ Within the session, the following rules are mandatory:
 
 ## Section 2. Clean Driving
 In this section the rules for clean driving will be mentioned.
+
+### Article 2.1 Clean Driver Role
+1. Drivers will be pre-screened in informal race lobbies.
+2. Drivers can only join events if their role is set to ‘Clean Driver’.
+3. Drivers can lose their 'Clean Driver' role.
+
+### Article 2.2 Return to track
+1. Reset to track is in all cases prohibited and will result in DSQ from the session.
+2. If a driver resetted to track in casual lobbies, their will get noted. If it happens more often their will lose the 'Clean Driver' role.
+3. If you leave the track (all 4 wheels off track) or spin on track, it is your responsibility for a safe return to racing.
+4. If returning to the track, also wait for a gap in the traffic or an opportunity to join the track from the racing line at a sensible speed.
+
+
+### Article 2.2 Return to track
+**a**
+1. Reset to track is in all cases prohibited and will result in DSQ from the session.
+2. If a driver resetted to track in casual lobbies, their will get noted. If it happens more often their will lose the 'Clean Driver' role.
+
+**b**
+1. If you leave the track (all 4 wheels off track) or spin on track, it is your responsibility for a safe return to racing.
+2. If returning to the track, also wait for a gap in the traffic or an opportunity to join the track from the racing line at a sensible speed.
+
+
+##############
+
+
+
+### Article 2.1 
+You will attempt to race cleanly and with consideration to other drivers, following the rules in
+Section 4.
+We are aware incidents happen but if you feel you have impeded someone and/or gained an unfair
+advantage you should attempt to make amends during the race in a safe manner.
+
+### Article 2.2
+Drivers will be pre-screened in informal race lobbies and can only join events if their role is set to ‘Clean Driver’.
+
+### Article 2.3
+Incidents that you do feel are unjust or are contentious should be clipped. Post these in the #race-incidents channel in the correct thread following the templates provided. Stewards will review the footage.
+
+### Article 2.4
+Recordings that are not of sufficient quality can be ignored by league stewards. All
+images/recordings should be as close to source quality as possible.
+
+### Article 2.5
+If there is a collision that you feel that someone may claim is your fault when you think it isn’t
+you should record your side in defense too. The more angles the stewards have, the higher the
+chance of the stewards coming to a correct decision
+
+### Article 2.6
+Reset to track in all cases is prohibited and will result in DSQ from the session. This rule is also applied in open lobbies. 
+
+
+### Article 2.7
+If you leave the track (all 4 wheels off track) or spin on track, it is your responsibility for a safe
+return to racing.
+
+### Article 2.8
+If returning to the track, also wait for a gap in the traffic or an opportunity to join the track
+from the racing line at a sensible speed.
+
+### Article 2.9
+
+### Article 2.10
