@@ -6,19 +6,15 @@ In this section rules of a general nature will be mentioned.
 
 ### Article 1.1 - General provisions
 
-1. Respect other drivers, don’t be rude.
-
-2. Try to race clean.
-
-3. If you feel someone is being dirty post a clip into clips-and-screens , don't flame them directly in chat. Drivers who are continually problematic can be reported to the league stewards via 💡｜mod-mail.
-
-4. Own up to your mistakes, we all make them!
-
-5. Remember, casual lobbies are for fun and for learning. Give people the benefit of the doubt
-
-6. If you feel you there is a problem with between you and another driver that can't be solved through direct dialogue (either on or off-track), reach out to us via💡｜mod-mail.
-
-7. All assists excluding Braking, Steering, DRS & ERS Assist are allowed. If you feel like someone is faster with a certain input/assist combination no want cares to hear you complain about it so git gud
+1. Every member must keep his language neat. Insulting, swearing, discrimination, racism or other offensive behavior will not be tolerated.
+2. It is not allowed to pretend to be a staff member, or to act like a staff member if you are not.
+3. Self-promotion and advertising is not allowed in any way, without the permission of a Server Owner.
+4. Constantly sending the same messages is considered spamming and is not allowed
+5. All races, both casual and event races, are driven according to the racing rules stated in the Code of Conduct. Race for fun and try to drive clean.
+6. Confess your mistakes, everybody can make them.
+7. If someone is (constantly) driving dirty or will not confess any mistakes, post clips in the 'race-incidents' channel. If needed you can speak to a staff member.
+8. Bijna alle assists zijn toegestaan en zijn door de bestuurder zelf bepalen. Niet toegestaan zijn Pit assists, Pit Release assist, ERS assist & DRS assist.
+9. Staff members can give the roll 'Clean Driver' to drivers who are proven to be a clean driver and confess their mistakes. Staff members can, if necessary, also remove this role if there are repeated failures to drive clean.
 
 ### Article 1.2 - Lobby setup requirement
 To participate in a CRL community lobby, the rider is expected to be a member of our Discord. The lobbies are "Invite Only" for members.
@@ -52,5 +48,5 @@ Within the session, the following rules are mandatory:
 |    |    | **Unsafe Pit Release**  |  On  |
 
 
-## Section 2. Clean driving
-In this section rules for clean driving will be mentioned.
+## Section 2. Clean Driving
+In this section the rules for clean driving will be mentioned.
