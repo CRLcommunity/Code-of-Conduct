@@ -138,17 +138,85 @@ give them space for the rejoin if it is safe to do so.
 
 4. The attacker should always keep in mind the risks they are taking when participating in an overtaking maneuver vs the reward of pulling it off. Sometimes it is better to wait for a more clearcut overtaking opportunity later in the lap at an easier place to overtake then go for a risky overtake through a technical sector.
 
+### Article 3.9 Giving back a place
+1. If you are informed that you need to give a place back due to an on-screen warning, you have to do this in a safe and predictable way.
+2. We urge drivers doing so to wait until an open and straight part of the track to peel off the racing line and lift off the throttle (not brake) ensuring there is no car behind. After giving the place up the driver can rejoin the racing line when it’s safe to do so.
+3. You may end up having to let multiple cars through to give up the specific position requested.
+4. If you feel that you have gained an unfair advantage via an illegal overtake, for example (but not limited to) you ran wide during or after an overtake or gained a position unfairly under yellow flags/safety cars, you may decide to give the place back without the prompt of the on-screen display. You are still required to follow all the guidelines under 3.9.
+5. If a car gives a position back on track, this can lessen or nullify a penalty investigation.
+6. There are occasions where you may feel a cede position warning is either too dangerous to complete or unwarranted. It may also be the case that the car behind is not willing to overtake. In this case it may be better to take the penalty and serve it at the pit-stops or at the end of the race. If you feel the penalty is unwarranted you can get this reviewed with stewards as a racing incident as under 2.3.
+7. Although the on-screen prompt may disappear, you have to give the place fully back (car is no longer side by side) and not attack the car until past the braking zone into another corner.
+8. If giving a place back to another driver, it is your responsibility to avoid collisions with other drivers and to do so in a safe manor.
 
+## Section 4. Safety Car Procedure
 
+### Article 4.1 Remain in line
+1. Drivers must remain in line during virtual and standard safety car periods. 
+2. This is to allow other cars the ability to warm up their tires without the fear that a car will be suddenly in its space. This is the case throughout the entirety of the safety car period, including when preparing to resume the race.
+3. Cars can resume going side by side once you have passed the first green flag/light on track and the OSD no longer states “caution” after a safety car restart. If cars go side by side, the source of the infringement will be investigated and acted upon
 
+### Article 4.2 Correct speed
+1. Drivers must remain predictable and at the correct speed for the safety car/section of track they are in. Braking sharply or backing other drivers up so your team mate can pit, amongst other reasons, are not allowed and will result in action from the stewards.
 
+### Article 4.3 Follow OSD Display
+1. Drivers must follow the OSD display
+2. Drivers may ignore the OSD if is is obviously incorrect. The driver than needs to make a recording and let it review after the race by a stewards as a racing incident as under 2.3.
+3. Drive-through penalties accrued for not following the delta must be served and cannot be reviewed by the stewards.
 
+### Article 4.4 Overtake under Safety Car
+1. Drivers can overtake cars going unduly slowly. This is applied if the car has spun on the track or have left the defined track area (all 4 wheels over the white lines).
+2. This also applies to cars that have caught up with the pack and have fallen more than 10 car lengths behind.
+3. Drivers cannot unlap themselves, the game doesn't allow it. If you are a lap down, then you are probably out of contention for the race win so just focus on your race from there.
+4. Drivers can overtake cars entering the pits once they have crossed the white line signaling pit entry. Drivers can also overtake cars leaving the pits until the end of the white line. Once the car leaving the pit has crossed beyond the end of the white line, drivers must stay behind if they don't have any of their car in front.
+5. If you have damage and wish to let other cars past, you must leave the track with 4 wheels to do so. Going unduly slowly on the racing track on purpose will draw a dim view from the stewards and could result in a penalty. If you have damage, it is accepted that you will be slower and other drivers must accommodate for that.
+6. If you have accidentally took a place by mistake that was unjust/incorrect without receiving an on-screen warning to give the place back, the stewards are offering the opportunity for cars to give the places back after the safety car restart. This should only be done after green flag racing has resumed, to avoid penalty warnings for other drivers, and should be completed if possible before the end of the first sector.
+7. If you are found to have overtaken under safety car without good reason and not given the place back or only given the place back under duress, you will be penalized if a race-incident had been reported or seen by stewards.
 
+### Article 4.4 Restart from Safety Car
+1. As lead driver, it is your responsibility to resume racing in a safe manor for the whole field.
+2. The restart should consist of one clear return to racing.
+3. Any ambiguity around speeding up and slowing down will be penalized.
+4. Drivers should wait for the safety car to be at pit-entry/'prepare to resume racing' message to show before any acceleration to resume racing, to avoid being slowed down by the game. If the game does slow you down, you are still accountable for your actions for not correctly following the game’s instructions.
 
+## Section 5. Blue Flag Procedure
 
+### Article 5.1 Blue flag shown
+1. If drivers that are more than a lap up on you are approaching you from behind, the game will show a blue flag UI message and flag light panels will start to flash blue on track.
+2. Once you receive the message/see the lights you will be counted as a 'blue flagged car' and you in total 6 blue flag lights to show that you are letting the lapping driver through.
+3. Blue flagged cars are advised to get out of the way at the next available opportunity, preferably on a straight and always off the racing line following the rules in article 3.9.
+4. Blue flagged cars do not have to jump out of the way as soon as they see the messages but instead when it best suits both cars, within the 6 flag limit.
+5. Blue flagged cars are advised to cede positions to all other cars that are approaching you from behind that are a lap up, but this isn't a requirement. As soon as you let one car by the 6 light warning resets, and you have another 6 lights to let the next lapping car through.
+6. When ceding positions as a blue flagged car it is important to be clear and predictable to other drivers. It is not required that you leave the track to let lapped runners through but if you do leave the track, you must rejoin it in a safe way so others are not impeded by your rejoin, as per normal racing conditions.
+7. Some digression will be given to the 6 flag warning limit depending on the track configuration and space available. This digression will only be given if it is clear to stewards that the blue flagged car is trying everything in its power to let the lapping car through at the earliest point possible.
 
+### Article 5.2 Coming up to blue flagged traffic
+1. As a car coming up to blue flagged traffic, it is important to remember that the cars ahead don't have to jump out of the way as soon as they see your car. They are running their own race.
+2. During some sectors/circuits it is difficult to find space to come off the racing line and slow, so think about when you first got the message/how long it takes them to get out of your way before reporting it to the stewards.
+3. As a car approaching blue flag traffic, be mindful that they will try to peel off of the racing line and slow down, so leave them a bit of breathing room for them to do their thing. Forcing an overtake that is unsafe on a blue flagged car will be deemed as an incident like any other under the rules of engagement section.
 
+### Article 5.3 Un-lapping
+1. Tt is advised against un-lapping yourself unless you have a significant pace advantage. Remember, during attempts to un-lap yourself, normal section rules apply as if you were an Attacking driver and moves should be cleaner than clean. Your race ultimately isn't with them.
 
+## Section 6. Red Flag Procedure
+
+### Article 6.1 Red flag shown
+1. Red Flags may be used by Race Directors to signify that the session needs to come to a stop and drivers need to retire their cars.
+2. If the !redflag command is ushered by a Race Director ) Red Flags may be used by Race Directors to signify that the session needs to come to a stop and
+drivers need to retire their cars.
+3. If the !redflag command is ushered by a Race Director in the Event channels, then all drivers racing in that event must follow the instructions given and retire their car from the session.
+
+### Article 6.2 Potential reasons to call a red flag (this isn't exhaustive):
+1. 
+a) There has been a jump start in conjunction with the ready up rule and the session needs to be reset following the rules laid out in section 5.
+b) There is a serious issue with the lobby that has affected the integrity of the race and all drivers meaning it is no longer feasible to complete the race in this session.
+c) The lobby has not been setup correctly meaning the rules have not been correctly set, to the point that the integrity of the race is compromised.
+d) There is no longer enough drivers left in the session to complete a race.
+
+2. If you feel there is valid reason to call for a red flag that has been unnoticed by race direction please alert us via the event-chat channel tagging the divisions race-director. The reason must be something that at least affects the majority of the drivers and not a crash or glitch that affects you and maybe another single driver.
+
+## Section 7. TBA
+Formationlap process, Attendance during events, Spirit of competition for events, Penalty Point license system, 
+For now the rules in section 7 are not specified. The steward will tell live what the rules are. Updated Code of Conduct wil be fast in place.
 
 
 
