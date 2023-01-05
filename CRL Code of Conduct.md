@@ -75,6 +75,7 @@ In this section the rules for clean driving will be mentioned.
 
 ##############
 
+FIA REGELS GELDEN. Dit is ter aanvulling, verduidelijking en om bepaalde elementen van de game te benoemen?D
 
 
 ### Article 2.1 
