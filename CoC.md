@@ -13,7 +13,7 @@ In this section rules of a general nature will be mentioned.
 5. All races, both casual and event races, are driven according to the racing rules stated in the Code of Conduct. Race for fun and try to drive clean.
 6. Confess your mistakes, everybody can make them.
 7. If someone is (constantly) driving dirty or will not confess any mistakes, post clips in the 'race-incidents' channel. If needed you can speak to a staff member.
-8. Bijna alle assists zijn toegestaan en zijn door de bestuurder zelf bepalen. Niet toegestaan zijn Pit assists, Pit Release assist, ERS assist & DRS assist.
+8. Almost all assists are allowed and are determined by the driver. Not allowed are Pit assists, Pit Release assist, ERS assist & DRS assist.
 9. Staff members can give the roll 'Clean Driver' to drivers who are proven to be a clean driver and confess their mistakes. Staff members can, if necessary, also remove this role if there are repeated failures to drive clean.
 
 ### Article 1.2 - Lobby setup requirement
@@ -66,7 +66,7 @@ In this section the rules for clean driving will be mentioned.
 
 ### Article 2.3 Incident Report
 1. If an incident occurs that you think is unfair or controversial, you can report it.
-2. Een report moet ingediend worden volgens format in het kanaal #race-incidents.
+2. A report must be submitted according to the format in the channel #race-incidents.
 3. Stewards may expect images to be supplied in sufficient quality. All images/recordings should be as close to source quality as possible.
 4. Incidents must be submitted within 48 hours of their occurrence.
 5. If the requirements are met, stewards will review and handle the report.
