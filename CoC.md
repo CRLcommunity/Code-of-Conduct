@@ -42,11 +42,11 @@ In this section rules of a general nature will be mentioned.
 | **Safety Car**  |  Increased (Off with 3/5 Lap)  | **Car Damage Rate**  |  Standard  |
 | **Safety Car Experience**  |  Immersive  | **Low Fuel Mode**  |  Hard  |
 | **Formation Lap**  |  On (Off with 3/5 Lap)  | **Race Starts**  |  Manual  |
-| **Formation Lap Experience**  |  Immersive  | **Ghosting**  |  Off  |
+| **Formation Lap Experience**  |  Immersive  | **Collisions**  |  On  |
+|    |    | **Ghosting**  |  Off  |
 |    |    | **Tyre Temperature**  |  Surface & Carcass  |
 |    |    | **Pit Lane Tyre Sim**  |  On  |
 |    |    | **Unsafe Pit Release**  |  On  |
-
 
 ## Section 2. Clean Driving
 In this section the rules for clean driving will be mentioned.
