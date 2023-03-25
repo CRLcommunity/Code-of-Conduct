@@ -86,7 +86,7 @@ In this section the rules for clean driving will be mentioned.
 4. A driver must meet the question posed in this article within 48 hours.
 
 ### Article 2.5 Return to track
-1. Reset to track is in all cases prohibited and will result in DSQ from the session.
+1. Reset to track is in all cases prohibited and will result in 10 second time penalty.
 2. If a driver resetted to track in casual lobbies, their will get noted. If it happens more often they will lose the 'Clean Driver' role.
 3. If you leave the track (all 4 wheels off track) or spin on track, it is your responsibility for a safe return to racing. If facing the opposite direction wait, apply the brakes to stop the car rolling, and look for a gap in traffic to spin the car around. If in a dangerous position on track, try to move to a safer position at the earliest opportunity that is safe for other drivers.
 4. If returning to the track, also wait for a gap in the traffic or an opportunity to join the track from the racing line at a sensible speed.
@@ -95,7 +95,7 @@ give them space for the rejoin if it is safe to do so.
 6. All return to track incidents will be considered as if ghosting is not in action, even if it is. Punishments will be given out to incidents that are considered irresponsible returns to racing, especially ones that impact other drivers.
 
 ### Article 2.6 AI driving
-1. Using AI to enjoy a fast start is prohibited.
+1. Using AI to enjoy a fast start is prohibited and will result in 5 second time penalty.
 2. If you need to retire from the race, please make sure there are no cars following you and remain at normal speed, press start and retire. The AI will find a safe space to pull off the circuit.
 3. You are still liable for incidents your AI causes and stewards will judge them as if you are in control.
 
@@ -210,9 +210,9 @@ give them space for the rejoin if it is safe to do so.
 
 ### Article 6.1 Red flag shown
 1. Red Flags may be used by Race Directors to signify that the session needs to come to a stop and drivers need to retire their cars.
-2. If the !redflag command is ushered by a Race Director ) Red Flags may be used by Race Directors to signify that the session needs to come to a stop and
+2. If the !redflag command is ushered by a Race Director. Red Flags may be used by Race Directors to signify that the session needs to come to a stop and
 drivers need to retire their cars.
-3. If the !redflag command is ushered by a Race Director in the Event channels, then all drivers racing in that event must follow the instructions given and retire their car from the session.
+3. If the !redflag command is ushered by a Race Director in the FIA channels, then all drivers racing in that event must follow the instructions given and retire their car from the session.
 
 ### Article 6.2 Potential reasons to call a red flag (this isn't exhaustive):
 1. 
