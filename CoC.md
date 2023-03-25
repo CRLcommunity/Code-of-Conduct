@@ -65,11 +65,19 @@ In this section the rules for clean driving will be mentioned.
 6. Drivers can lose their 'Clean Driver' role if they don't drive according to the rules.
 
 ### Article 2.3 Incident Report
-1. If an incident occurs that you think is unfair or controversial, you can report it.
-2. A report must be submitted according to the format in the channel #race-incidents.
-3. Stewards may expect images to be supplied in sufficient quality. All images/recordings should be as close to source quality as possible.
-4. Incidents must be submitted within 48 hours of their occurrence.
-5. If the requirements are met, stewards will review and handle the report.
+1. Incidents that occurs in 'open lobbies' can affect the clean driver role.
+2. A driver can for 'open lobbies' opt for a general discussion or an official report named under paragraphs 5 or 6.
+
+3. Incidents that occur in 'League races' may affect the driver's League license, based on the penalty system.
+4. A driver can for 'league races' opt only for an official report named under paragraphs 6.
+
+5. If an incident occurs in an 'Open Lobby', you can post images in 'general' for general discussion.
+6. If an incident occurs that you think is unfair or controversial, you can official report it to get a steward's opinion. A report is bound by the following requirements;
+ - A report for an 'open lobby' must be submitted according to the format in the channel 'Open Review' > #race-incidents.
+ - A report for an 'League Race' must be submitted according to the format in the channel 'League - Season X > #League-incidents.
+ - Stewards may expect images to be supplied in sufficient quality. All images/recordings should be as close to source quality as possible.
+ - Incidents must be submitted within 48 hours of their occurrence.
+ - If the requirements are met, stewards will review and handle the report.
 
 ### Article 2.4 Defend incident
 1.  If there has been an accident that you think someone is claiming was your fault, but you don't think it is, you should record your side in defense too. The more corners the stewards have, the higher the chance for a correct outcome
@@ -172,11 +180,12 @@ give them space for the rejoin if it is safe to do so.
 6. If you have accidentally took a place by mistake that was unjust/incorrect without receiving an on-screen warning to give the place back, the stewards are offering the opportunity for cars to give the places back after the safety car restart. This should only be done after green flag racing has resumed, to avoid penalty warnings for other drivers, and should be completed if possible before the end of the first sector.
 7. If you are found to have overtaken under safety car without good reason and not given the place back or only given the place back under duress, you will be penalized if a race-incident had been reported or seen by stewards.
 
-### Article 4.4 Restart from Safety Car
+### Article 4.5 Restart from Safety Car
 1. As lead driver, it is your responsibility to resume racing in a safe manor for the whole field.
 2. The restart should consist of one clear return to racing.
 3. Any ambiguity around speeding up and slowing down will be penalized.
 4. Drivers should wait for the safety car to be at pit-entry/'prepare to resume racing' message to show before any acceleration to resume racing, to avoid being slowed down by the game. If the game does slow you down, you are still accountable for your actions for not correctly following the game’s instructions.
+5. A constant speed is mandatory so that the field can react. Once accelerated, it is mandatory to maintain this speed at least. At a corner you may slow down at the braking point as far as necessary, after which you build up the old speed as quickly as possible.
 
 ## Section 5. Blue Flag Procedure
 
