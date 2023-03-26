@@ -1,6 +1,74 @@
 # CRL Community - Code of Conduct v 1.1
 The Code of Conduct used in the CRL Community.
 
+
+
+
+## Table of contents
+### Section 1. General server rules
+- Article 1.1 - General provisions
+- Article 1.2 - Lobby setup requirement
+- Article 1.3 - Attendance in League Races
+- Article 1.4 - Race Session Time
+### Section 2. Clean Driving
+- Article 2.1 Official Fia rules
+- Article 2.2 Clean Driver Role
+- Article 2.3 Incident Report
+- Article 2.4 Defend incident
+- Article 2.5 Return to track
+- Article 2.6 AI driving
+### Section 3. Rules of Engagement
+- Article 3.1 Significant car length alongside
+- Article 3.2 Attacker / Defender role
+- Article 3.3 Defending track positions
+- Article 3.4 Defending weaving and re-opening
+- Article 3.5 Defenders space at corner
+- Article 3.6 Defenders responsibility
+- Article 3.7 Defender with slow pace
+- Article 3.8 Attackers responsibility
+- Article 3.9 Giving back a place
+### Section 4. Safety Car Procedure
+- Article 4.1 Remain in line
+- Article 4.2 Correct speed
+- Article 4.3 Follow OSD Display
+- Article 4.4 Overtake under Safety Car
+- Article 4.5 Restart from Safety Car
+### Section 5. Blue Flag Procedure
+- Article 5.1 Blue flag shown
+- Article 5.2 Coming up to blue flagged traffic
+- Article 5.3 Un-lapping
+### Section 6. Red Flag Procedure
+- Article 6.1 Red flag shown
+- Article 6.2 Potential reasons to call a red flag
+### Section 7. Readying up/Jump Start Rule
+- Article 7.1 Ready
+### Section 8. Formation Lap Process
+- Article 8.1 Formation Lap
+- Article 8.2 Contact at Formation Lap
+### Section 9. Giving back a place
+- Article 9.1 On-screen Warning
+- Article 9.2 Unfair Advantage and incidents
+- Article 9.3 Penalty after On-screen Warning
+### Section 10. Spirit of Competition
+- Article 10.1 Retire procedure
+- Article 10.2 Hot Lap
+- Article 10.3 Track Limits
+- Article 10.4 Correct Tire
+- Article 10.5 AI Takeover
+- Article 10.6 Low Fuel
+- Article 10.7 Teammates
+### Section 11. In-game Penalty
+- Article 11.1 Additional penalty
+- Article 11.2 Unjust Penalty
+### Section 12. Point and License System
+- Article 12.1 Race points
+- Article 12.2 Penalty Point License System
+- Article 12.3 Penalty Point during qualifying
+- Article 12.4 Penalty Point holding
+
+
+
+
 ## Section 1. General server rules
 In this section rules of a general nature will be mentioned.
 
@@ -267,10 +335,11 @@ drivers need to retire their cars.
 1. Drivers must maintain their qualifying positions on the way to the grid 
 2. Drivers remain at no more than 10 car lengths to the car in front.
 3. The only exception to this article will be when a car has spun/gone off track or is in AI mode as the AI just go at their own rate.
-4. If a car spins, it is able to retake its position on the formation lap as long as the driver hasn't dropped all the way behind the pack. If it does drop all the way behind, catch up to the pack and retake your position at the start of the race.
-4. The lead car sets the pace, they may decide a quick formation lap or a slow one. It is the job of the cars behind to follow the pace set
+4. Do not share this specific line to other drivers. Copy it and send it to NLKris to show that you have read this.
+5. If a car spins, it is able to retake its position on the formation lap as long as the driver hasn't dropped all the way behind the pack. If it does drop all the way behind, catch up to the pack and retake your position at the start of the race.
+6. The lead car sets the pace, they may decide a quick formation lap or a slow one. It is the job of the cars behind to follow the pace set
 
-5. Any attempts to 'game' the formation lap, such as purposefully spinning to warm up the tires or dropping back behind other cars will be reviewed by the stewards.
+7. Any attempts to 'game' the formation lap, such as purposefully spinning to warm up the tires or dropping back behind other cars will be reviewed by the stewards.
 
 ### Article 8.2 Contact at Formation Lap
 1. Be careful around other cars, any contact will result in both cars being put back into their grid position with cold tires. 
@@ -296,5 +365,95 @@ drivers need to retire their cars.
 
 3. In the case mentioned in 9.3 under 1 and 2, it may be better to take the penalty and serve it at the pit-stops or at the end of the race. If you feel the penalty is unwarranted you can get this reviewed with stewards.
 
+## Section 10. Spirit of Competition
+
+### Article 10.1 Retire procedure
+1. If you need to retire from the race, please make sure there are no cars following you and remain at normal speed, press start and retire. The AI will find a safe space to pull off the circuit.
+2. When racing, you cannot retire from the race because the events of the race are not going your way. Retiring because things are not going your way is not respectful to other drivers putting their time into the session and will be served with a penalty.
+
+### Article 10.2 Hot Lap
+1. If you are not on a hot lap during qualifying for the race it is your responsibility to clear the racing line for cars on a hot lap. 
+2. If you are exiting the pit lane and trying to get out of the way of other drivers on a hot lap, be mindful that going too slowly will block the pit-lane and cause a DSQ for you and other drivers exiting the pit-lane behind you.
+3. Blocking the pit-lane can be penalized if it affects other drivers and is within your control to not block it. 
+
+### Article 10.3 Track Limits
+1. Crossing over track limits can result in a penalty and/or lap time removal from the stewarding team, even if the game says you were fine. Sometimes we may race on standard corner cutting but this isn't an excuse to extend beyond limits.
+
+### Article 10.4 Correct Tire
+1. During qualifying, you must have the correct tires for the weather conditions, this applies to all sessions, even if you are leaving the pits to just set a lap time to get through to the next session.
+ 
+### Article 10.5 AI Takeover
+1. If AI is taking control of your car for over half race distance your car will be removed from the race classification.
+2. If your connection is unstable, please join back and retire your car from the race through the menu.
+3. You are still liable for incidents your AI causes and stewards will judge them as if you are in control.
 
 
+### Article 10.6 Low Fuel
+1. The league uses a 'hard' fuel mode setting, meaning running out of fuel means you cruise along the track at low speed.
+2. If in this mode, you should do everything within your power to remove yourself from the racing lines and moving off track to allow faster cars through. 
+3. If you hit slow mode during qualifying, you must return to the pits. If you hit slow mode in the race, you are not allowed to cross the line more than once in slow mode. If you cross the line and are still racing (not reached race distance or race distance after being lapped) you need to retire your car from the session.
+
+### Article 10.7 Teammates
+1. Working with your teammate is a key area of league racing and in-race alliances will form as part of natural racing, but there shouldn’t be any pre-meditated attempts to disrupt the races.
+2. If a driver is going to join a team where there is already a first driver, the first driver has a right to veto the second player, however they will need to have solid reasons for doing so and the league organizers have a right to ignore this veto if evidence against the player joining is not sufficient.
+3. If you are finding difficulties within the team you currently have, it is up to you to find another driver to swap with.
+
+
+## Section 11. In-game Penalty
+
+### Article 11.1 Additional penalty
+1. If the game doesn't give you a penalty but stewards find you to have infringed the rules, stewards have the power to take appropriate action. 
+
+
+### Article 11.2 Unjust Penalty
+1. If an automatic in-game penalty occurs which you feel is unjust, you may apply for a penalty removal request.
+2. Incidents should be posted in the #league-incidents channel/thread with 3 pieces of evidence: 
+   a) The incident itself. 
+   b) A full recording of the incidents tab under race director (all incidents not just yours). 
+   c) A full recording of the pit-stops tab under race director (all pit-stops not just yours).
+
+3. Stewards can only remove penalties that are unserved at the end of the race. For instance;
+   a) you get a 5 second warning for a collision but then pit and that time is removed, then the penalty is deemed to have been served. 
+   b) you get a 5 second warning for a collision but you didn't pit, the 5 seconds added to your race time will be deemed as unserved.
+
+4. We can only remove the time penalty that directly relates to your incident and cannot be transferred to other unserved penalties. 
+5. An exception is article 9.3, this can still be reviews by stewards after it was served but that is not a promise it can be removed.
+
+## Section 12. Point and License System
+
+### Article 12.1 Race points
+1. Championship points are awarded in the following order: 25, 18, 15, 12, 10, 8, 6, 4, 2, 1 (+1 FL).
+
+
+### Article 12.2 Penalty Point License System
+1. How penalties are awarded:
+   a) NFA - No further action required, no penalty points or time penalties awarded to any driver 
+   b) Minor Incident - driver receives a 2 point penalty on their license.
+   c) Major Incident - driver receives a 4 point penalty on their license and either a 5, 10 or 20 second time penalty applied to their race result providing they finished the race.
+   d) Critical Incident – driver receives a 6 point penalty on their license, will be DSQ from the race result AND if a driver receives a critical incident their position in the league will be questioned by race stewards.
+
+2. If a driver totals 6 points during a single season this will trigger a qualifying ban. This means;
+   a) the driver cannot participate in qualifying and will start from the back of the grid. 
+   b) the driver will be able to join the session, but can only do a installation lap (out then straight back in) for the parc-ferme setup
+   c) the driver must hit retire in the pits as soon as they return form the installation lap. You are not allowed to set a time.
+3. If a driver with a due qualifying ban cannot make the race session, it will carry over to next week.
+
+4. A further 6 points, 12 in total, will trigger a full race ban. This means;
+   a) they cannot take place in the qualifying or race.
+   b) A reserve driver can take their seat in that race.
+   
+5. Every further 6 points will increment between triggering a qualifying ban and then a race ban.
+
+6. If a driver receives a major or above penalty for 3 races consecutively, stewards retain the right to demote them from their race seat, down to a reserve role.
+
+7. It is better for drivers to come out and own their mistakes when they make them. This will be included in the processing.
+
+8. If the stewards find a driver to have a significant amount of collisions we can take further action to penalize the driver, ban from upcoming races or in extreme events end their league involvement.
+
+### Article 12.3 Penalty Point during qualifying
+1. Major penalties awarded in qualifying sessions will be judged on a case-by-case basis whether a time penalty or other punishment is required.
+2. A penalty during qualifying, can be forces to serve at the race.
+
+### Article 12.4 Penalty Point holding
+1. In principle penalties will be reset at the end of the season to 0.
+2. Major penalties occurring in the final 2 races of the season can be carried over to the next season.
