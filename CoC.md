@@ -117,7 +117,7 @@ In this section rules of a general nature will be mentioned.
 |    |    | **Unsafe Pit Release**  |  On  |
 
 ### Article 1.3 - Attendance in League Races
-1. By registering for a full seat in the league races, you commit to be available during all races in the season (Sunday 21:00 CET/GMT +1) for the duration
+1. By registering for a full seat in the league races, you commit to be available during all races in the season (Sunday 21:00 Central European Time, CET) for the duration
 of the competition season. If you are unable to race, you must notify the stewards, at least 24 hours before the start, that you cannot participate
 the session in the 'Day-off' channel. We can fill your seat with a reserve driver for the week.
 2. By registering for a reserve seat in the league races, you can without obligation sign up for an empty seat. Once registered, you commit to attending. Vacancies will be posted in the reserve driver channel about 24 hours before the race start. 
