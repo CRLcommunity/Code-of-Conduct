@@ -1,4 +1,4 @@
-# CRL Community - Code of Conduct v 1.0
+# CRL Community - Code of Conduct v 1.1
 The Code of Conduct used in the CRL Community.
 
 ## Section 1. General server rules
@@ -48,6 +48,27 @@ In this section rules of a general nature will be mentioned.
 |    |    | **Pit Lane Tyre Sim**  |  On  |
 |    |    | **Unsafe Pit Release**  |  On  |
 
+### Article 1.3 - Attendance in League Races
+1. By registering for a full seat in the league races, you commit to be available during all races in the season (Sunday 21:00 CET/GMT +1) for the duration
+of the competition season. If you are unable to race, you must notify the stewards, at least 24 hours before the start, that you cannot participate
+the session in the 'Day-off' channel. We can fill your seat with a reserve driver for the week.
+2. By registering for a reserve seat in the league races, you can without obligation sign up for an empty seat. Once registered, you commit to attending. Vacancies will be posted in the reserve driver channel about 24 hours before the race start. 
+3. Points earned will be credited to the reserve driver.
+4. If a drvier is inexplicably absent, the driver may lose his seat. A reserve driver can then prioritize a claim to a vacant seat.
+5. If you can't make it to the races anymore, you don't need a reason to leave the competition. Please let us know so we can fill the seat.
+6. Drivers are expected be in the lobby 15 minutes before the designated start time. If drivers are still not present with 10 minutes until the session start time, their seat will be offered to the first available reserve driver eligible for it. 
+7. Drivers who arrive late without a valid excuse within a single season, will be given a;
+   a) warning;
+   b) on second occurrence a 2 point penalty on their license;
+   c) on third occurrence their league position could be removed.
+
+### Article 1.4 - Race Session Time
+1. Race sessions are time-boxed to 3 hours total for 100% races.
+2. Race sessions are time-boxed to 2 hours total for 50% races.
+3. The session timer starts from the designated start time 
+4. If a race is still going when the timer ticks to 0, there will be one extra lap and that will be considered the final lap of racing. 
+5. After a final lap, as referred to in article 1.4 under 4, a virtual chequered flag will be thrown. Once the race is over the !redflag command will be issued and the points will be awarded according the code of conduct
+
 ## Section 2. Clean Driving
 In this section the rules for clean driving will be mentioned.
 
@@ -73,11 +94,11 @@ In this section the rules for clean driving will be mentioned.
 
 5. If an incident occurs in an 'Open Lobby', you can post images in 'general' for general discussion.
 6. If an incident occurs that you think is unfair or controversial, you can official report it to get a steward's opinion. A report is bound by the following requirements;
- - A report for an 'open lobby' must be submitted according to the format in the channel 'Open Review' > #race-incidents.
- - A report for an 'League Race' must be submitted according to the format in the channel 'League - Season X > #League-incidents.
- - Stewards may expect images to be supplied in sufficient quality. All images/recordings should be as close to source quality as possible.
- - Incidents must be submitted within 48 hours of their occurrence.
- - If the requirements are met, stewards will review and handle the report.
+   a) A report for an 'open lobby' must be submitted according to the format in the channel 'Open Review' > #race-incidents.
+   b) A report for an 'League Race' must be submitted according to the format in the channel 'League - Season X > #League-incidents.
+   c) Stewards may expect images to be supplied in sufficient quality. All images/recordings should be as close to source quality as possible.
+   d) Incidents must be submitted within 48 hours of their occurrence.
+   e) If the requirements are met, stewards will review and handle the report.
 
 ### Article 2.4 Defend incident
 1.  If there has been an accident that you think someone is claiming was your fault, but you don't think it is, you should record your side in defense too. The more corners the stewards have, the higher the chance for a correct outcome
@@ -216,17 +237,64 @@ drivers need to retire their cars.
 
 ### Article 6.2 Potential reasons to call a red flag (this isn't exhaustive):
 1. 
-a) There has been a jump start in conjunction with the ready up rule and the session needs to be reset following the rules laid out in section 5.
-b) There is a serious issue with the lobby that has affected the integrity of the race and all drivers meaning it is no longer feasible to complete the race in this session.
-c) The lobby has not been setup correctly meaning the rules have not been correctly set, to the point that the integrity of the race is compromised.
-d) There is no longer enough drivers left in the session to complete a race.
+  a) There has been a jump start in conjunction with the ready up rule and the session needs to be reset following the rules laid out in section 5.
+  b) There is a serious issue with the lobby that has affected the integrity of the race and all drivers meaning it is no longer feasible to complete the race in this session.
+  c) The lobby has not been setup correctly meaning the rules have not been correctly set, to the point that the integrity of the race is compromised.
+  d) There is no longer enough drivers left in the session to complete a race.
 
 2. If you feel there is valid reason to call for a red flag that has been unnoticed by race direction please alert us via the event-chat channel tagging the divisions race-director. The reason must be something that at least affects the majority of the drivers and not a crash or glitch that affects you and maybe another single driver.
 
-## Section 7. TBA
-Formationlap process, Attendance during events, Spirit of competition for events, Penalty Point license system, 
-For now the rules in section 7 are not specified. The steward will tell live what the rules are. Updated Code of Conduct wil be fast in place.
+3. Guidance for restarting sessions: 
+   a) If the session is red flagged during qualifying, the lobby will be reformed and qualifying length will be set to short qualifying.
+   b) If the ready-up rule is the cause of the red flag then race director will inform drivers of the procedure for restart.The rules in section 7 can be followed to reform the grid, using screenshots of qualifying.
+   c) If the red flag is flown during the race then depending on the time of the red flag the session could be:
+      i) Restarted; If the race has less than 5 laps completed the race will restart for 100%, reforming the grid based off of qualifying results.
+      ii) Restarted; If the race has been between 5 laps and half of race distance, reforming the grid based off of the order of the race from 2 laps before the red flag, or failing that information based off of race grid.
+      iii) Abandoned with half points given; If the race has been between half of race distance and three-quarter race distance, half points will be awarded in positions of cars 2 laps before the red flag was issued.
+      iv) Abandoned with full points given; If over three-quarter race distance has been completed, full points will be awarded in positions of cars 2 laps before the red flag was issued.
+      
+## Section 7. Readying up/Jump Start Rule
 
+### Article 7.1 Ready
+1. When sitting on the grid waiting for race start (the screen where you can change stints and tweak fuel load), only people with the @staff tag are allowed to ready up, even if the countdown has started.
+2. Race Directors will post a race start time in the 'FIA' channel. The race start time will be set to after 5 minutes from when the post goes live
+3. If someone does ready up, either accidentally or on purpose, the lobby can be reseted. Grid will be reformed. The driver(s) who ready up will be pushed to the back of the grid without exception.
+4. If a driver breaks this rule more than once, additional penalties may apply up to a maximum of losing their seat.
+
+## Section 8. Formation Lap Process
+
+### Article 8.1 Formation Lap
+1. Drivers must maintain their qualifying positions on the way to the grid 
+2. Drivers remain at no more than 10 car lengths to the car in front.
+3. The only exception to this article will be when a car has spun/gone off track or is in AI mode as the AI just go at their own rate.
+4. If a car spins, it is able to retake its position on the formation lap as long as the driver hasn't dropped all the way behind the pack. If it does drop all the way behind, catch up to the pack and retake your position at the start of the race.
+4. The lead car sets the pace, they may decide a quick formation lap or a slow one. It is the job of the cars behind to follow the pace set
+
+5. Any attempts to 'game' the formation lap, such as purposefully spinning to warm up the tires or dropping back behind other cars will be reviewed by the stewards.
+
+### Article 8.2 Contact at Formation Lap
+1. Be careful around other cars, any contact will result in both cars being put back into their grid position with cold tires. 
+2. You can still be found at fault/penalized for an incident on the way to the grid.
+
+## Section 9. Giving back a place
+
+### Article 9.1 On-screen Warning
+1. If you are informed you need to give a place back due to an on-screen warning, you have to do this in a safe and predictable way.
+2. We urge drivers doing so to wait until an open and straight part of the track to peel off the racing line and lift off the throttle (not brake) ensuring there is no car behind.
+3. If giving a place back to another driver, it is your responsibility to avoid collisions with other drivers and to do so in a safe manor
+4. After giving the place up you can rejoin the racing line when it’s safe to do so. You may end up having to let multiple cars through to give up the specific position requested.
+
+5. Although the on-screen prompt may disappear, you have to give the place fully back (car is no longer side by side) and not attack the car until past the braking zone into another corner.
+
+### Article 9.2 Unfair Advantage and incidents
+1. If you feel that you have gained an unfair advantage via an illegal overtake or after an incident, you may decide to give the place back without the prompt of the on-screen display. You are still required to follow the guidelines under article 9.1.
+2. If a car gives a position back on track, this can lessen or nullify a penalty investigation.
+
+### Article 9.3 Penalty after On-screen Warning
+1. There are occasions where you may feel a cede position warning is either too dangerous to complete or unwarranted.
+2. It may also be the case that the car behind is not willing to overtake.
+
+3. In the case mentioned in 9.3 under 1 and 2, it may be better to take the penalty and serve it at the pit-stops or at the end of the race. If you feel the penalty is unwarranted you can get this reviewed with stewards.
 
 
 
